@@ -10,5 +10,10 @@
   },
   "devDependencies": {
     "vite": "^5.0.8"
+  },
+  "dependencies": {
+    "@axe-core/puppeteer": "^4.8.4",
+    "@sparticuz/chromium": "^121.0.0",
+    "puppeteer-core": "^21.11.0"
   }
 }
